@@ -19,35 +19,35 @@ Git
 5. Replace the placeholder `custom_model.h5` in `play.py` and `detect.py` with your trained model.
 6. Run the game: `python play.py`
 
-# Clone Repository:
+#### Clone Repository:
 git clone https://github.com/yourusername/stone-paper-scissors-ai.git
 cd stone-paper-scissors-ai
 
-# Create and Activate Virtual Environment:
+#### Create and Activate Virtual Environment:
 python -m venv env
 
-# Activating the virtual environment (Windows)
+#### Activating the virtual environment (Windows)
 env\Scripts\activate
 
-# Activating the virtual environment (Unix or MacOS)
+#### Activating the virtual environment (Unix or MacOS)
 source env/bin/activate
 
-# Install Dependencies:
+#### Install Dependencies:
 pip install -r requirements.txt
 
-## Usage Instructions:
+#### Usage Instructions:
 Train your custom model using the provided notebook or your own dataset and hyperparameters.
 Save the trained model as an .h5 file.
 Replace the placeholder .h5 file in play.py and detect.py with your trained model.
 
-# Run the game:
+#### Run the game:
 python play.py
 Follow on-screen instructions to play Stone Paper Scissors against the computer using hand gestures.
 
 ## Credits:
 The notebook to train the model was adapted from trekhleb's machine-learning-experiments.
 
-### Demo 
+# Demo 
 <img width="605" alt="comp wins" src="https://github.com/SejalWasule/Stone-Paper-Scissor-Play-with-AI/assets/102143995/fae8ec74-a843-4c8d-9c8d-3b952f9c620e">
 
 <img width="598" alt="tie" src="https://github.com/SejalWasule/Stone-Paper-Scissor-Play-with-AI/assets/102143995/3d4e019c-2cdf-4715-8a57-4a8f302abd68">
