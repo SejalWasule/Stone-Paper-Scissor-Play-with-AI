@@ -19,9 +19,9 @@ Git
 5. Replace the placeholder `custom_model.h5` in `play.py` and `detect.py` with your trained model.
 6. Run the game: `python play.py`
 
+In cmd
 #### Clone Repository:
 git clone https://github.com/yourusername/stone-paper-scissors-ai.git
-cd stone-paper-scissors-ai
 
 #### Create and Activate Virtual Environment:
 python -m venv env
