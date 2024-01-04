@@ -45,7 +45,7 @@ python play.py
 Follow on-screen instructions to play Stone Paper Scissors against the computer using hand gestures.
 
 ## Credits:
-The notebook to train the model was adapted from trekhleb's machine-learning-experiments.
+The notebook to train the model was adapted from trekhleb's machine-learning-experiments(https://github.com/trekhleb/machine-learning-experiments.).
 
 # Demo 
 <img width="605" alt="comp wins" src="https://github.com/SejalWasule/Stone-Paper-Scissor-Play-with-AI/assets/102143995/fae8ec74-a843-4c8d-9c8d-3b952f9c620e">
